@@ -1,0 +1,21 @@
+{
+  "name": "@flypkg/suba",
+  "version": "0.0.0",
+  "description": "suba",
+  "author": "Simon <wsj_simon@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
