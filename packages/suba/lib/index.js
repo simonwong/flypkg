@@ -9,5 +9,5 @@ ${name}@${version}： ${message}
 }
 
 export function runSubA () {
-  logMessage('subA', pkg.version, '在 subA 中执行')
+  logMessage('subA', pkg.version, '在 subA 中执行，当前版本：0.0.2')
 }
