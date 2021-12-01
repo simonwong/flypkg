@@ -37,7 +37,9 @@ jobs:
       - name: Create and publish versions
         uses: changesets/action@v1
         with:
+          version: pnpm ci:version
           publish: pnpm ci:publish
-          title: "chore(release): publish"
+          title: "chore(release): publish",
+          commit: "chore(release): publish",
         env:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_ACTION_TOKEN }}
