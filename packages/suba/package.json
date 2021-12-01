@@ -1,6 +1,6 @@
 {
   "name": "@flypkg/suba",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "suba",
   "author": "Simon <wsj_simon@163.com>",
   "homepage": "",
@@ -14,7 +14,7 @@
   ],
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

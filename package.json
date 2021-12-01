@@ -4,6 +4,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "ci:publish": "echo \"build\" && changeset publish"
+  },
   "devDependencies": {
     "@changesets/cli": "^2.18.1"
   }

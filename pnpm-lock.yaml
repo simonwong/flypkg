@@ -1,10 +1,21 @@
 lockfileVersion: 5.3
 
-specifiers:
-  '@changesets/cli': ^2.18.1
+importers:
 
-devDependencies:
-  '@changesets/cli': 2.18.1
+  .:
+    specifiers:
+      '@changesets/cli': ^2.18.1
+    devDependencies:
+      '@changesets/cli': 2.18.1
+
+  packages/main:
+    specifiers:
+      '@flypkg/suba': workspace:^0.1.1
+    dependencies:
+      '@flypkg/suba': link:../suba
+
+  packages/suba:
+    specifiers: {}
 
 packages:
 
