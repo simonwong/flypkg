@@ -1,5 +1,13 @@
 # @flypkg/main
 
+## 0.2.1
+
+### Patch Changes
+
+- 066d8fb: path again again...
+- Updated dependencies [066d8fb]
+  - @flypkg/suba@0.2.1
+
 ## 0.2.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # @flypkg/suba
 
+## 0.2.1
+
+### Patch Changes
+
+- 066d8fb: path again again...
+
 ## 0.2.0
 
 ### Minor Changes
