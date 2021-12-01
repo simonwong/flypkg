@@ -5,7 +5,7 @@
     "packages/*"
   ],
   "scripts": {
-    "ci:publish": "echo \"build\" && changeset publish"
+    "ci:publish": "echo \"build\" && pnpm install && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.18.1"
