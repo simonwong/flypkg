@@ -10,7 +10,7 @@ importers:
 
   packages/main:
     specifiers:
-      '@flypkg/suba': workspace:^0.1.1
+      '@flypkg/suba': workspace:^0.2.0
     dependencies:
       '@flypkg/suba': link:../suba
 
