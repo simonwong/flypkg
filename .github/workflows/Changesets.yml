@@ -43,3 +43,4 @@ jobs:
           commit: "chore(release): publish"
         env:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_ACTION_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
