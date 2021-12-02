@@ -1,5 +1,11 @@
 # @flypkg/main
 
+## 0.2.2
+
+### Patch Changes
+
+- [`d3caa63`](https://github.com/simonwong/flypkg/commit/d3caa63383d33f82d6a381e31d6815dacda581c5) Thanks [@simonwong](https://github.com/simonwong)! - tset changelog
+
 ## 0.2.1
 
 ### Patch Changes
