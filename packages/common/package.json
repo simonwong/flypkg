@@ -1,0 +1,25 @@
+{
+  "name": "@flypkg/common",
+  "version": "0.0.0",
+  "description": "common",
+  "author": "Simon <wsj_simon@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@flypkg/suba": "workspace:^0.2.1"
+  }
+}
