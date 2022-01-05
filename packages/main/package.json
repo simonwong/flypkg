@@ -1,6 +1,6 @@
 {
   "name": "@flypkg/main",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "description": "main",
   "author": "Simon <wsj_simon@163.com>",
   "homepage": "",
@@ -21,6 +21,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@flypkg/suba": "workspace:^0.2.1"
+    "@flypkg/suba": "workspace:^1.0.0"
   }
 }

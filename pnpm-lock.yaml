@@ -12,13 +12,13 @@ importers:
 
   packages/common:
     specifiers:
-      '@flypkg/suba': workspace:^0.2.1
+      '@flypkg/suba': workspace:^1.0.0
     dependencies:
       '@flypkg/suba': link:../suba
 
   packages/main:
     specifiers:
-      '@flypkg/suba': workspace:^0.2.1
+      '@flypkg/suba': workspace:^1.0.0
     dependencies:
       '@flypkg/suba': link:../suba
 

@@ -1,5 +1,16 @@
 # @flypkg/main
 
+## 1.0.0
+
+### Major Changes
+
+- [`83fc202`](https://github.com/simonwong/flypkg/commit/83fc2025fc0667c6bfd8e69a09881e5e4eff55f9) Thanks [@simonwong](https://github.com/simonwong)! - update initial
+
+### Patch Changes
+
+- Updated dependencies [[`d03703a`](https://github.com/simonwong/flypkg/commit/d03703abe5786355d7bb533bebec393d70def12a)]:
+  - @flypkg/suba@1.0.0
+
 ## 0.2.2
 
 ### Patch Changes
