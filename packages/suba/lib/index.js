@@ -8,6 +8,6 @@ ${name}@${version}: ${message}
 ===================`)
 }
 
-export function runSubA () {
-  logMessage('subA', pkg.version, '在 subA 中执行，当前版本：0.1.0')
+export function runSubA (msg = 'default run') {
+  logMessage('subA', pkg.version, msg)
 }
